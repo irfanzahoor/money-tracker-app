@@ -9,7 +9,7 @@
 
 Run the following commands from your terminal:
 
-1) `git clone https://github.com/floranguyen0/mmas-money-tracker` to clone this repository 
+1) `git clone https://github.com/irfanzahoor/mmas-money-tracker` to clone this repository 
 
 2) `flutter pub get` in the project root directory to install all the required dependencies.
 
@@ -43,5 +43,5 @@ https://apps.apple.com/vn/app/mmas-money-tracker/id1582638369
 
 
 ## LICENSE
-MMAS: Money Tracker is [MIT-licensed](https://github.com/floranguyen0/mmas-money-tracker/blob/main/LICENSE).
+MMAS: Money Tracker is [MIT-licensed](https://github.com/irfanzahoor/mmas-money-tracker/blob/main/LICENSE).
 # money-tracker-app
